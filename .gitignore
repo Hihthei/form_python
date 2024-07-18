@@ -1,0 +1,5 @@
+py_udemy/
+__pycache__/
+*.pyc
+.idea/
+
