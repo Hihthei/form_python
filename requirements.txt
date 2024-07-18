@@ -1,0 +1,8 @@
+### Formation python à partir d'un cours udemy
+
+J'apprends le python à partir d'une formation udemy et différent tuto (youtube et autres)
+
+## Installation
+
+# Unix :
+pip install -r requirements.txt
